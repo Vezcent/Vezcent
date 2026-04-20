@@ -12,7 +12,9 @@ I’m passionate about system architecture, AI, and performance optimization. I 
 * **OS & Environments:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 * **IDE & AI Workflows:** Google Antigravity, VS Code, VS 20xx
 
-![Lirya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vezcent&theme=react-dark&area=true&hide_border=true)
+<!-- ![Lirya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vezcent&theme=react-dark&area=true&hide_border=true) -->
+
+![Lirya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vezcent&area=true&color=9b59b6&line=3498db&area_color=9b59b6&bg_color=0d1117&hide_border=true)
 
 <!--
 **Vezcent/Vezcent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

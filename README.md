@@ -14,8 +14,6 @@ I’m passionate about system architecture, AI, and performance optimization. I 
 
 <!-- ![Lirya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vezcent&theme=react-dark&area=true&hide_border=true) -->
 
-![Lirya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vezcent&area=true&color=9b59b6&line=3498db&area_color=9b59b6&bg_color=0d1117&hide_border=true)
-
 <!--
 **Vezcent/Vezcent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

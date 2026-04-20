@@ -13,6 +13,8 @@ I’m passionate about system architecture, AI, and performance optimization. I 
 * **IDE & AI Workflows:** Google Antigravity, VS Code, VS 20xx
 
 ![Lirya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vezcent&theme=react-dark&area=true&hide_border=true)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Vezcent%20System&fontSize=90&animation=twinkling)
 <!--
 **Vezcent/Vezcent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
